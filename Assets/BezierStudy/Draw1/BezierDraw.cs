@@ -1,3 +1,6 @@
+using System;
+using UnityEditor;
+
 namespace LittleDemo.Bezier
 {
 
@@ -43,6 +46,18 @@ public class BezierDraw : MonoBehaviour
         }
     }
 
-
+    private void OnDrawGizmos()
+    {
+        for (int i = 0; i < _segmentNum; i++)
+        {
+            
+            Gizmos.DrawSphere(lineRenderer.GetPosition(i),0.2f);
+        }
+        
+        Handles.Label(Vector3.zero, "P0");
+        Handles.Label(Vector3.one*10, "P1");
+        Handles.SphereHandleCap(0, Vector3.one*10, Quaternion.identity, .1f, EventType.Repaint);
+        Gizmos.DrawLine(Vector3.zero,Vector3.one*10);
+    }
 }
 }

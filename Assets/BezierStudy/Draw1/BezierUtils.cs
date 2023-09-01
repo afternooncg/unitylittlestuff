@@ -204,7 +204,22 @@ namespace LittleDemo.Bezier
 
     }
 
-
-
+    //求 切线
+    public Vector3 BezierTangent(float t, Vector3 p0, Vector3 p1, Vector3 p2, Vector3 p3)   
+    {        
+        float u = 1 - t;       
+        float uu = u * u;       
+        float tu = t * u;       
+        float tt = t * t;        
+        
+        Vector3 P = p0 * 3 * uu * (-1.0f);
+        P += p1 * 3 * (uu - 2 * tu);  
+        P += p2 * 3 * (2 * tu - tt);        
+        P += p3 * 3 * tt;          
+        //返回单位向量
+        return P.normalized;
+     }
+    
+    
  }
 }
