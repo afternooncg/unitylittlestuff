@@ -1,1 +1,1 @@
-[游戏中的贝塞尔曲线以及其在Unity中的实现](https://cloud.tencent.com/developer/article/1335554)
+[娓告垙涓殑璐濆灏旀洸绾夸互鍙婂叾鍦║nity涓殑瀹炵幇](https://cloud.tencent.com/developer/article/1335554)
