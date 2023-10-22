@@ -1,0 +1,8 @@
+﻿localize/textcfg/customluatable.bundle.kr		|80bf7e62f9738de55025298cbd0f412a		|48d91bd6bc4acf97363e3399a4281277		|25658		|0
+localize/textcfg/prefabtext.bundle.kr		|0bab6d6162a52e8b7d26307364b8fdf4		|50497f9436b71cf21278fdf6d5a5b8c3		|18388		|0
+localize/textcfg/tabletext.bundle.kr		|4849e014fc62d1e38355b816a2fbb25d		|61a854381e3977193938499069ce1025		|590722		|0
+localize/textcfg/updatecfg.bundle.kr		|b4985ab5700291e25b5dcefcc15e365b		|5316dc58f17c7c96a3da641b33e15b83		|1934		|0
+localize/sprite/activity.bundle.kr		|49a6e7d813c4238554f62521c4078dff		|fe6772b48768ea7de91d686e3717e122		|534197		|0
+localize/sprite/logo.bundle.kr		|b3390b98958cc70f109d63b2be3f729e		|dcc2b1e3f95e187402da54ef9f296432		|25041		|0
+localize/sprite/tutorial.bundle.kr		|c6e2866c1bef25915a317dc0ebff32cc		|f29d7d8feb44c21acd30f3afa268e04a		|3372436		|0
+localize/sprite/world120010.bundle.kr		|f0c69fcbd8341d4642f49f4b7272b775		|a545c9c3e17333097123e028ea105b4e		|140431		|0

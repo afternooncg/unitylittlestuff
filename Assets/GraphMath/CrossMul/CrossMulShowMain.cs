@@ -31,6 +31,8 @@ public class CrossMulShowMain : MonoBehaviour
 
     private void OnDrawGizmos()
     {
+#if UNITY_EDITOR
         Handles.Label(c, c.ToString());
+#endif
     }
 }

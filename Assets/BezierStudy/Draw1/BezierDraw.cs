@@ -53,11 +53,12 @@ public class BezierDraw : MonoBehaviour
             
             Gizmos.DrawSphere(lineRenderer.GetPosition(i),0.2f);
         }
-        
+#if UNITY_EDITOR
         Handles.Label(Vector3.zero, "P0");
         Handles.Label(Vector3.one*10, "P1");
         Handles.SphereHandleCap(0, Vector3.one*10, Quaternion.identity, .1f, EventType.Repaint);
         Gizmos.DrawLine(Vector3.zero,Vector3.one*10);
+#endif
     }
 }
 }

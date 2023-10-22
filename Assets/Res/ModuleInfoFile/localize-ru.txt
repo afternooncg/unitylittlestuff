@@ -1,0 +1,8 @@
+﻿localize/textcfg/customluatable.bundle.ru		|0e36e280518d7ae1f2ac9b764c938ef2		|1864bd2c881655890de0d4c14ef3fea4		|25658		|0
+localize/textcfg/prefabtext.bundle.ru		|7d02fe74c7a056ab37f9281367248b9e		|7aa6cbf0b947d5e63f09c538d2841ae0		|20508		|0
+localize/textcfg/tabletext.bundle.ru		|c79aa4cb7fef4bc0a845c3868f45c0f4		|4855c08f14f1dd1d180726bdccb7aece		|682479		|0
+localize/textcfg/updatecfg.bundle.ru		|2bb5e87f32c63bd8f6a888a1719850e8		|ab67c2d20cc5d5089f0959f697397582		|2106		|0
+localize/sprite/activity.bundle.ru		|6029054c564c3a2bb3ce76dd8226f5bc		|d50bed6315f6bae3899fc41e4e2dc403		|681388		|0
+localize/sprite/logo.bundle.ru		|21c62cc44ecd8437dc6c65754c2aaeab		|2491aaa42132117b25ed35a307638835		|22999		|0
+localize/sprite/tutorial.bundle.ru		|f2e37f2bb7be9992b6ea591764c0ecbd		|b89dc3b66143fbb317e9bda2b7cd6477		|3355368		|0
+localize/sprite/world120010.bundle.ru		|ff596d7f79eaf7efa5318750a11a97af		|b9136d01f2f62221c1b782e475001137		|140431		|0

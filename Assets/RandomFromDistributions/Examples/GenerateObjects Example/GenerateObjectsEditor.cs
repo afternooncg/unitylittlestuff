@@ -2,6 +2,7 @@
 using UnityEditor;
 using System.Collections;
 
+#if UNITY_EDITOR
 [CustomEditor(typeof(GenerateObjects))]
 public class GenerateObjectsEditor : Editor {
 
@@ -50,5 +51,4 @@ public class GenerateObjectsEditor : Editor {
 		EditorUtility.SetDirty( this );
 	}
 }
-
-
+#endif
